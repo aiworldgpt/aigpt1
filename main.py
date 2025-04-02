@@ -1,1 +1,1 @@
-print("Hello AI GPT 1")
+print("Hello AI GPT 1");
